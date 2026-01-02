@@ -1,1 +1,1 @@
-from python:alipine
+from python:alipine1.0
